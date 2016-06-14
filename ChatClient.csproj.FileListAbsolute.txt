@@ -1,0 +1,1 @@
+c:\users\yadavn4\documents\visual studio 2015\Projects\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
