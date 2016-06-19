@@ -20,7 +20,6 @@ namespace ChatClient
             //intialize a socket
             Socket sender = new Socket(AddressFamily.InterNetwork,
                 SocketType.Stream, ProtocolType.Tcp);
-
             //connect the socket with the remote end point
 
             try
@@ -35,10 +34,6 @@ namespace ChatClient
                 int numOfBytes = sender.Send(array);
 
                 //get the response from the remote endpoint
-
-
-
-
 
             }
 
